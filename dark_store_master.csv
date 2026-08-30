@@ -1,0 +1,11 @@
+Dark_Store_ID,City,Zone,Store_Size_sqft,Rider_Fleet_Size,Avg_SKU_Count
+DS001,Bengaluru,Koramangala,1800,22,3200
+DS002,Bengaluru,Whitefield,1500,18,2900
+DS003,Delhi,Saket,2000,25,3400
+DS004,Delhi,Rohini,1600,17,3000
+DS005,Mumbai,Andheri,1700,20,3100
+DS006,Mumbai,Powai,1900,21,3300
+DS007,Hyderabad,Gachibowli,1550,16,2950
+DS008,Pune,Hinjewadi,1750,19,3050
+DS009,Chennai,T Nagar,1650,18,2980
+DS010,Kolkata,Salt Lake,1600,17,2900
